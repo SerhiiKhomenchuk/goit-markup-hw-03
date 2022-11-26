@@ -11,6 +11,7 @@
 body {
     background-color: var(--color-background);
     font-family: 'Roboto', sans-serif;
+    font-style: normal;
     color:var(--color-textbase)
 }
 .logo-base {
@@ -47,13 +48,16 @@ body {
 }
 .link-nav:hover {
     color: var(--color-hoover);
-    
-}
+    }
+        
+.link-nav:focus {
+            color: var(--color-hoover);}
+
 .top-adress:hover {
     color: var(--color-hoover);
-        
-
 }
+.top-adress:focus {
+    color: var(--color-hoover);}
 
 .top-adress {
     width: 72px;
@@ -171,6 +175,12 @@ body {
         color:var(--color-background);
         text-decoration: none;
 }
+.map:hover {
+    color: var(--color-hoover);
+}
+.map:focus {
+    color: var(--color-hoover);
+}
 
 
 .footer-adress {
@@ -184,6 +194,12 @@ body {
     text-decoration: none;
 
 }
+.footer-adress:hover {
+    color: var(--color-hoover);
+}
+.footer-adress:focus {
+    color: var(--color-hoover);}
+
 .portfolio-title {
     visibility: hidden;
 
