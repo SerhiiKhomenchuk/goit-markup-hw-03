@@ -19,7 +19,7 @@ body {
     font-style: normal;
     font-weight: 700;
     font-size: 26px;
-    line-height: 31px;
+    line-height: 1.19;
     letter-spacing: 0.03em;
     text-decoration: none;
     color: var(--color-hoover);
@@ -41,7 +41,7 @@ body {
         top: 32px;
         font-weight: 500;
         font-size: 14px;
-        line-height: 16px;
+        line-height: 1.14;
         letter-spacing: 0.02em;
         text-decoration:none;
         color: var(--color-title);;
@@ -66,7 +66,7 @@ body {
     top: 32px;
     font-weight: 500;
     font-size: 14px;
-    line-height: 16px;
+    line-height: 1.14;
     letter-spacing: 0.02em;
     text-decoration: none;
     color:var(--color-textbase)
@@ -86,7 +86,7 @@ body {
         top: 280px;
         font-weight: 900;
         font-size: 44px;
-        line-height: 60px;
+        line-height: 1.36;
         text-align: center;
         letter-spacing: 0.06em;
         text-transform: uppercase;
@@ -102,7 +102,7 @@ body {
     font-style: normal;
     font-weight: 700;
     font-size: 16px;
-    line-height: 30px;
+    line-height: 1.88;
     letter-spacing: 0.06em;
     color: var(--color-background);
     border: 0em;
@@ -115,7 +115,7 @@ body {
 .features-title {
         font-weight: 700;
         font-size: 14px;
-        line-height: 16px;
+        line-height: 1.14;
         letter-spacing: 0.03em;
         color: var(--color-title);
 
@@ -123,13 +123,13 @@ body {
 .lorem {
         font-weight: 400;
         font-size: 14px;
-        line-height: 24px;
+        line-height: 1.72;
         letter-spacing: 0.03em;
 }
 .what-we-do-title{
     font-weight: 700;
     font-size: 36px;
-    line-height: 42px;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     color: var(--color-title);
 }
@@ -139,7 +139,7 @@ body {
 .teams-title {
         font-weight: 700;
         font-size: 36px;
-        line-height: 42px;
+        line-height: 1.17;
         letter-spacing: 0.03em;
         color: var(--color-title);
 
@@ -147,7 +147,7 @@ body {
 .name {
         font-weight: 500;
         font-size: 16px;
-        line-height: 19px;
+        line-height: 1.19;
         letter-spacing: 0.03em;
         color: var(--color-title);
 
@@ -155,7 +155,7 @@ body {
 .position {
         font-weight: 400;
         font-size: 16px;
-        line-height: 19px;
+        line-height: 1.19;
         letter-spacing: 0.03em;
         color: var(--color-textbase);
     
@@ -170,7 +170,7 @@ body {
         font-style: normal;
         font-weight: 400;
         font-size: 14px;
-        line-height: 24px;
+        line-height: 1.72;
         letter-spacing: 0.03em;
         color:var(--color-background);
         text-decoration: none;
@@ -188,7 +188,7 @@ body {
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
-    line-height: 24px;
+    line-height: 1.72;
     letter-spacing: 0.03em;
     color: rgba(255, 255, 255, 0.6);
     text-decoration: none;
@@ -209,7 +209,7 @@ body {
         font-style: normal;
         font-weight: 500;
         font-size: 16px;
-        line-height: 26px;
+        line-height: 1.63;
         text-align: center;
         letter-spacing: 0.03em;
         color: var(--color-title);
@@ -248,14 +248,14 @@ width: 125px;
 .project-title {
     font-weight: 700;
         font-size: 18px;
-        line-height: 36px;
+        line-height: 2;
         letter-spacing: 0.06em;
         color:var(--color-title);
 }
 .project-subtitle {
         font-weight: 400;
         font-size: 16px;
-        line-height: 30px;
+        line-height: 1.88;
         letter-spacing: 0.03em;
         color:var(--color-textbase);
 }
