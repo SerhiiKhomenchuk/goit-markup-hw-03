@@ -404,6 +404,8 @@ body {
 .item {
     flex-basis: calc((100% - 60px) / 3);
     border-bottom: 1px solid #EEEEEE;
+    border-left: 1px solid #EEEEEE;
+    border-right: 1px solid #EEEEEE;
 
 }
 .project-title {
@@ -412,7 +414,8 @@ body {
         line-height: 2;
         letter-spacing: 0.06em;
         color:var(--color-title);
-        margin: 20px auto 4px 24px;
+        margin-bottom: 4px;
+        
     }
 .project-subtitle {
         font-weight: 400;
@@ -420,6 +423,9 @@ body {
         line-height: 1.88;
         letter-spacing: 0.03em;
         color:var(--color-textbase);
-        margin-left: 24px;
+        
+}
+.projects-description{
+margin: 20px 24px;
 }
     
