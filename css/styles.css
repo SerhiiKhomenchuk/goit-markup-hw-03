@@ -254,6 +254,9 @@ body {
     display: flex;
     justify-content: space-between;
     }
+.what-we-do {
+    padding-top: 0px;
+}
  
     /*Команда*/  
     
@@ -400,6 +403,7 @@ body {
 }
 .item {
     flex-basis: calc((100% - 60px) / 3);
+    border-bottom: 1px solid #EEEEEE;
 
 }
 .project-title {
@@ -409,7 +413,7 @@ body {
         letter-spacing: 0.06em;
         color:var(--color-title);
         margin: 20px auto 4px 24px;
-}
+    }
 .project-subtitle {
         font-weight: 400;
         font-size: 16px;
